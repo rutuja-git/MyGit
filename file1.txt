@@ -3,7 +3,7 @@ Hello GIT!!!....
 
 class helloGit{
 
-main(){
+public static void main(){
 sysout("Welcome to Git");
 
 }
