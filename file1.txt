@@ -1,7 +1,7 @@
 This is my complete java application file..
 Hello GIT!!!....
 
-class helloGit{
+class HelloGit{
 
 public static void main(){
 sysout("Welcome to Git");
