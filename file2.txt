@@ -3,8 +3,9 @@ Hello GIT!!!....
 
 class HelloGit{
 
-public static void main(){
-sysout("Welcome to Git");
+	public static void main()
+	{
+	System.out.println("Welcome to Git");
 
-}
+	}
 }
