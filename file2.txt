@@ -4,11 +4,11 @@ Hello GIT!!!....
 class HelloGit{
 	
 	
-	stati String myMethod(){
+	static void myMethod(String str){
 	return("This is my method");
 	}
 	
-	public static void main()
+	public static void main(String args[])
 	{
 	myMethod();
 	System.out.println(" Java application...This will Welcome to Git");
