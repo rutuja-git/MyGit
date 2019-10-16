@@ -4,13 +4,13 @@ Hello GIT!!!....
 class HelloGit{
 	
 	
-	void myMethod(){
+	static void myMethod(){
 	sysout("This is my method");
 	}
 	
 	public static void main()
 	{
-
+	myMethod();
 	System.out.println(" Java application...This will Welcome to Git");
 
 	
