@@ -4,8 +4,8 @@ Hello GIT!!!....
 class HelloGit{
 	
 	
-	static void myMethod(){
-	sysout("This is my method");
+	stati String myMethod(){
+	return("This is my method");
 	}
 	
 	public static void main()
