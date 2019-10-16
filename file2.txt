@@ -5,7 +5,8 @@ class HelloGit{
 
 	public static void main()
 	{
-	System.out.println("Welcome to Git");
-
+	System.out.println(" This will Welcome to Git");
+	
 	}
+
 }
