@@ -2,7 +2,12 @@ This is my complete java application file..
 Hello GIT!!!....
 
 class HelloGit{
-
+	
+	
+	void myMethod(){
+	sysout("This is my method");
+	}
+	
 	public static void main()
 	{
 
